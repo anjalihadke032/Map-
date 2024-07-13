@@ -1,0 +1,12 @@
+#map {
+    width: 100%;
+    height: 500px;
+  }
+  
+  .map-controls {
+    margin-top: 5px;
+  }
+  
+  .map-controls .btn {
+    margin: 5px;
+  }
